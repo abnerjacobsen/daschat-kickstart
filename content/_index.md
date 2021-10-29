@@ -1,40 +1,40 @@
 ---
 header_brand: "Daschat.io"
-header_tagline_paragraph: "Estamos felizes por você estar aqui. Na verdade, a única emoção mais forte do que nossa alegria é nosso desejo de contar a você mais sobre o que estamos construindo. Tempos brilhantes pela frente. Vamos entrar nisso!"
+header_tagline_paragraph: "Estamos felizes por você estar aqui. Na verdade, a única emoção mais forte do que nossa alegria é nosso desejo de contar a você mais sobre o que estamos construindo. Tempos brilhantes pela frente. Venha entrar nisso!"
 header_button_cta:
   url: "#contact-form"
-  title: "Get in touch"
+  title: "Entrar em contato"
 header_button_more:
   url: "#the-future---today"
-  title: "Why this is awesome?"
+  title: "Por que isso é incrível?"
 teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
-# The Future - Today!
+# O Futuro - Hoje!
 
 Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
 
 ---
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
+Chamamos sua atenção? Agradecemos seus comentários neste estágio inicial de nosso produto. Não hesite em nos contatar. Na verdade, se estiver interessado, adoraríamos fazer um tour pelo protótipo que construímos.
 
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+{{< contact_form id="contact-form" placeholder_name="Nome" placeholder_email="Endereço de e-mail" placeholder_message="Menssagem" button_label="Enviar ✉️">}}
 
 ---
 
 # Prototype
 
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
+Você adivinhou! Colocamos nosso dinheiro onde está nossa boca. Isso é o que realizamos até agora.
 
 ![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
-Check out this sweet preview. Impressed much, are you?
+Confira esta bela prévia. Impressionante, não é?
 
 ---
 
-# Imprint & Privacy Policy
+# Política de Uso e Privacidade
 
-Let's keep it simple. This is our contact information:
+Vamos manter as coisas simples. Estas são as nossas informações de contato:
 
 Jane Doe
 1093 Simpson Square
@@ -42,14 +42,14 @@ May 73851, OK
 USA
 
 E-mail: jane@doe.net
-Phone: 580-689-0577
+Telefone: 55 27 98137-3154
 
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
+Levamos a privacidade de dados muito a sério, por isso nos certificamos de não armazenar nada de que não precisamos. Não temos nenhum serviço de rastreamento, cookies ou algo parecido. Caso decida utilizar o formulário de contato ou a inscrição na newsletter, essas informações serão armazenadas no Netlify, serviço que utilizamos para hospedar este site. Você pode nos abordar a qualquer momento para que seus dados sejam removidos ou simplesmente recuperar informações sobre as informações que armazenamos.
 
 ---
 
-# Stay in touch
+# Manter contato
 
-Let's stay in touch. Sign up for our newsletter. Do not worry, we will not bother you with boring details. Expect nice & tight updates about once or twice every 3 months.
+Vamos ficar em contato. Assine a nossa newsletter. Não se preocupe, não vamos incomodá-lo com detalhes enfadonhos. Espere atualizações boas e precisas cerca de uma ou duas vezes a cada 3 meses.
 
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
+{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Seu Email" button_label="Assinar">}}
