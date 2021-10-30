@@ -7,7 +7,7 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: "Por que isso é incrível?"
-teaser_image: "images/teaser.jpg" # https://www.pexels.com/search/product%20testing/
+teaser_image: "images/teaser2.jpg" # https://www.pexels.com/search/product%20testing/
 ---
 
 # O Futuro - Hoje!
