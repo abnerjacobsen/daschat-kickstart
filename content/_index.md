@@ -26,7 +26,7 @@ Chamamos sua atenção? Agradecemos seus comentários neste estágio inicial de 
 
 Você adivinhou! Colocamos nosso dinheiro onde está nossa boca. Isso é o que realizamos até agora.
 
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
+![Prototype Work](images/prototype2.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
 
 Confira esta bela prévia. Impressionante, não é?
 
